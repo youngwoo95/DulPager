@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>DulPager</id>
+    <version>1.0.0</version>
+    <authors>DulPager</authors>
+    <description>Blazor Pager Component</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="Microsoft.AspNetCore.Components.Web" version="6.0.15" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\rlady\OneDrive\Desktop\DulPager\DulPager\bin\Release\net6.0\DulPager.dll" target="lib\net6.0\DulPager.dll" />
+  </files>
+</package>
